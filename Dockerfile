@@ -1,3 +1,5 @@
+# escape=`
+
 FROM openjdk:8
 EXPOSE 8080
 COPY C:\Users\DINESHKUMAR\.jenkins\workspace\java-jenkins-docker\java-jenkins-docker.jar C:\
